@@ -61,7 +61,7 @@ tic-tac-toe/
 
 ## 🙌 Author
 
-Made with ❤️ by **[Your Name]**  
+Made with ❤️ by **Lakshya Sharma**  
 Feel free to fork, contribute, or raise an issue!
 
 ---
